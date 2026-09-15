@@ -1,0 +1,6 @@
+{
+  "name": "Discord Raid Request Bot",
+  "description": "Configure, preview, and dispatch interactive raid requests and LFG alerts to Discord channels with live embeds and roster tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
